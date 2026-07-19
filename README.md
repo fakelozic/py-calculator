@@ -1,6 +1,6 @@
 # CLI python Calculator
 
-A robust cmd-line calculator built in Python. This Project demonstrates the safe user input handling, error recovery, and automated testing using `pytest`.
+A robust cmd-line calculator built in Python. This Project demonstrates safe user input handling, error recovery, and automated testing using `pytest`.
 
 ## Features
 
@@ -51,7 +51,7 @@ python calculator/my_math.py
 
 ## Running the Tests
 
-This projects uses `pytest` to automatically test the math logic and the simulated user inputs.
+This project uses `pytest` to automatically test the math logic and the simulated user inputs.
 To run this suite, ensure your virtual environment is activate and run:
 
 ```bash
