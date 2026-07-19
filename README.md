@@ -1,6 +1,6 @@
 # CLI python Calculator
 
-A robust cmd-line calculator built in Python. This Project demonstrates safe user input handling, error recovery, and automated testing using `pytest`.
+A cmd-line calculator built in Python. This Project demonstrates safe user input handling, error recovery, and automated testing using `pytest`.
 
 ## Features
 
@@ -31,13 +31,13 @@ This project uses a Python virtual environment to manage dependencies. A Bash sc
    cd py-calculator
    ```
 2. **Run the setup script:**
-   This will automatically create `.venv` sandbox and install everything from `requirement.txt`.
+   This will automatically create `.venv` sandbox and install everything from `requirements.txt`.
    ```bash
    bash setup.sh
    ```
 3. **Activate the environment:**
    ```bash
-   source .venv/big/activate
+   source .venv/bin/activate
    ```
    _(Note for Windows users: run `.venv\Scripts\activate\ instead)_
 
